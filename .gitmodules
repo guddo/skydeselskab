@@ -1,0 +1,3 @@
+[submodule "sites/all/themes/twitter_bootstrap/bootstrap"]
+	path = sites/all/themes/twitter_bootstrap/bootstrap
+	url = git://github.com/twitter/bootstrap.git
